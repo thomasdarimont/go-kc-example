@@ -1,0 +1,46 @@
+{
+	"ImportPath": "github.com/thomasdarimont/go-kc-example",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/coreos/go-oidc",
+			"Rev": "5157aa730c25a7531d4b99483e6a440d4ab735a0"
+		},
+		{
+			"ImportPath": "github.com/pquerna/cachecontrol",
+			"Rev": "9299cc36e57c32f83e47ffb3c25d8a3dec10ea0b"
+		},
+		{
+			"ImportPath": "github.com/pquerna/cachecontrol/cacheobject",
+			"Rev": "9299cc36e57c32f83e47ffb3c25d8a3dec10ea0b"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "feeb485667d1fdabe727840fe00adc22431bc86e"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "e7a48207996f497ea86f5736d08d99d45c0b6461"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "e7a48207996f497ea86f5736d08d99d45c0b6461"
+		},
+		{
+			"ImportPath": "gopkg.in/square/go-jose.v2",
+			"Comment": "v2.1.1",
+			"Rev": "af13e1fbc7ac2df7f7eab54e5177104d546d0e9c"
+		},
+		{
+			"ImportPath": "gopkg.in/square/go-jose.v2/cipher",
+			"Comment": "v2.1.1",
+			"Rev": "af13e1fbc7ac2df7f7eab54e5177104d546d0e9c"
+		},
+		{
+			"ImportPath": "gopkg.in/square/go-jose.v2/json",
+			"Comment": "v2.1.1",
+			"Rev": "af13e1fbc7ac2df7f7eab54e5177104d546d0e9c"
+		}
+	]
+}
